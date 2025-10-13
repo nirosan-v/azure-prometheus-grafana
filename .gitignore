@@ -1,0 +1,31 @@
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === IDE & Editor Settings ===
+.vscode/
+.idea/
+
+# === SSH Keys & Credentials ===
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+known_hosts
+
+# === Logs & Output ===
+*.log
+nohup.out
+
+# === Temporary Files ===
+*.tmp
+*.swp
+*.bak
+
+# === Terraform (future infrastructure additions) ===
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# === System Files ===
+.env
