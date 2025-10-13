@@ -12,7 +12,7 @@ The goal was to demonstrate how monitoring can be made **automated**, **scalable
 A real-time visualisation of Azure VM performance using the **Node Exporter Full Dashboard (ID: 1860)** from Grafana Labs.  
 This dashboard tracks CPU utilisation, memory, storage and network activity — giving instant visibility into system health.
 
-![Grafana Dashboard](./screenshots/grafana-dashboard.png)
+![Grafana Dashboard](./screenshots/13-grafana-dashboard.png)
 
 ---
 
